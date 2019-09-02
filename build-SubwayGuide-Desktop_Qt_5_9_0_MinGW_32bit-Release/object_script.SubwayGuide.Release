@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\station.o
+./release\line.o
+./release\SubwayNet.o
+./release\graphics_view_zoom.o
+./release\edge.o
+./release\node.o
+./release\searchnode.o
+./release\moc_mainwindow.o
+./release\moc_graphics_view_zoom.o
+);
